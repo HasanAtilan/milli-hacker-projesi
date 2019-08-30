@@ -5,3 +5,5 @@
 # genellikle full stack developerim.
 # telegram: @netmrhasan
 # twitter:  @netmrhasan
+
+![Uygulamacik](https://resmim.net/f/kXsHMX.png?nocache)
