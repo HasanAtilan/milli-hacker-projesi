@@ -1,0 +1,263 @@
+.grid {
+  position: absolute;
+  margin-top:200px;
+  display: flex;
+  flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.container{
+  margin-top:100px;
+  position: absolute;
+
+}
+
+.custom-cont{
+  width:100%;
+  margin-top:100px;
+  position: absolute;
+
+}
+#cards{
+  margin-top:50px;
+}
+
+
+
+#row-id{
+  position:absolute;
+
+}
+
+#card-id {
+  margin-bottom: 20px;
+
+
+}
+
+#green-button{
+  background-color: #3bb12e;
+  border-color:#3bb12e;
+}
+
+#green-button-outline{
+  border-color:#3bb12e;
+}
+
+
+#green-button-outline-odul{
+  color:#3bb12e;
+  border-color:#3bb12e;
+}
+#green-button-outline-tarihilk{
+  color:#3bb12e;
+  border-color:#3bb12e;
+}
+#green-button-outline-tarihson{
+  color:#3bb12e;
+  border-color:#3bb12e;
+}
+
+
+#green-button-outline-odul:hover{
+  color:#f0c526;
+}
+#green-button-outline-tarihilk:hover{
+  color:#f0c526;
+
+}
+#green-button-outline-tarihson:hover{
+  color:#f0c526;
+
+}
+
+#green-button-severity{
+  background-color: #3bb12e;
+  border-color:#3bb12e;
+}
+
+#img-id{
+ height: 100px;
+}
+
+
+.medalimage{
+  width: 80px;
+}
+
+#bounty-pre-green{
+  background-color: #0c0d16;
+
+  color : #3bb12e;
+}
+
+#footer-green{
+margin-top:10px;
+  color : #3bb12e;
+}
+
+#program-icon-id{
+  width: 130px;
+  height: 30px;
+}
+
+
+#twitter-button{
+  background-color: #38A6EE;
+  border-color: #38A6EE;
+}
+
+#github-button{
+  background-color: #5a5a5a;
+  border-color: #5a5a5a;
+}
+
+
+
+
+
+
+
+
+.comment {
+    overflow: hidden;
+    padding: 0 0 1em;
+    border-bottom: 1px solid #ddd;
+    margin: 0 0 1em;
+    *zoom: 1;
+}
+
+.comment-img {
+    float: left;
+    margin-right: 33px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.comment-img img {
+    display: block;
+}
+
+.comment-body {
+    overflow: hidden;
+}
+
+.comment .text {
+    padding: 10px;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    background: #fff;
+}
+
+.comment .text p:last-child {
+    margin: 0;
+}
+
+.comment .attribution {
+    margin: 0.5em 0 0;
+    font-size: 14px;
+    color: #666;
+}
+
+/* Decoration */
+
+.comments,
+.comment {
+    position: relative;
+}
+
+.comments:before,
+.comment:before,
+.comment .text:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 65px;
+}
+
+.comments:before {
+    width: 3px;
+    top: -20px;
+    bottom: -20px;
+    background: rgba(0,0,0,0.1);
+}
+
+.comment:before {
+    width: 9px;
+    height: 9px;
+    border: 3px solid #fff;
+    border-radius: 100px;
+    margin: 16px 0 0 -6px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.2), inset 0 1px 1px rgba(0,0,0,0.1);
+    background: #ccc;
+}
+
+.comment:hover:before {
+    background: orange;
+}
+
+.comment .text:before {
+    top: 18px;
+    left: 78px;
+    width: 9px;
+    height: 9px;
+    border-width: 0 0 1px 1px;
+    border-style: solid;
+    border-color: #e5e5e5;
+    background: #fff;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+}
+
+pre{
+  font-family: "Lato", sans-serif;
+
+}
+
+.program-detail-pre{
+    font-size:13px;
+}
+
+
+.panel-body{
+  background-color: #0c0d16;
+}
+
+
+.right-span{
+  float: right;
+
+}
+
+
+
+
+
+
+
+
+.f {
+  
+}
+
+.glyphicon-ring {
+  border: 4px dotted #f0c526;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  color: #000;
+  display: inline-table;
+  text-align: center;
+}
+
+.glyphicon-ring2 {
+  border: 3px dashed #f0c526;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  color: #000;
+  display: inline-table;
+  text-align: center;
+}
