@@ -6,4 +6,4 @@
 # telegram: @netmrhasan
 # twitter:  @netmrhasan
 
-![Uygulamacik](https://resmim.net/f/kXsHMX.png?nocache)
+![Uygulamacik](https://resmim.net/f/MfdMG1.png?nocache)
