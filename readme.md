@@ -2,5 +2,6 @@
 # boşta durmasın kodlamisken paylasayim dedim.
 # kodlama kesinlikle bana aittir.
 # hasanatilan.com
+# genellikle full stack developerim.
 # telegram: @netmrhasan
 # twitter:  @netmrhasan
